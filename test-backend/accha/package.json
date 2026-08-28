@@ -1,0 +1,12 @@
+{
+  "name": "test-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "wrap.js",
+  "scripts": {
+    "start": "node wrap.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
